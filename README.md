@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with Statistics<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Python, Data Visualization, Machine Learning<br>⚡ Fun fact: The term "data scientist" was coined in 2008, but data science has roots in the early 1960s!
+🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Data Science<br><br>
 
 
 ## 🌐 Socials:
