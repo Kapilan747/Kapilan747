@@ -19,15 +19,9 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# GitHub Stats:
 
-![Kapilan747 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapilan747&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kapilan747&theme=algolia&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-###  My GitHub Contribution Graph:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kapilan747&area=true&hide_border=false&line=00bfff&point=ffffff&color=9e4c98&bg_color=0d1117&custom_title=GitHub%20Contribution%20Graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapilan747&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
